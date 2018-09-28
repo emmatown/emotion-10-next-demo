@@ -1,0 +1,13 @@
+{
+  "name": "emotion-10-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.0-really-unsafe-please-do-not-use.0",
+    "emotion-theming": "^10.0.0-really-unsafe-please-do-not-use.0",
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
